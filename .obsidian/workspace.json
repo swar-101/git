@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "b3c632a1d872d8bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a463ddbfaa8ceb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29da284a7dd0e813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "warnings-in-git/README-lf-crlf-warning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f812980d70b8d316",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "967a8ea0c009f127",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab4dc492871e8460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445e126f35368cae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db0530c31b2c8fd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cec4bf18834978e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41aee76925dabda3",
+    "type": "split",
+    "children": [
+      {
+        "id": "957814ea51c1699a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80941e669aabd33b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "warnings-in-git/README-lf-crlf-warning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e73373ed086733ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "warnings-in-git/README-lf-crlf-warning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c36b558bb6de0975",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5002a7c86d660121",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "warnings-in-git/README-lf-crlf-warning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "445e126f35368cae",
+  "lastOpenFiles": [
+    "Untitled 1",
+    "Untitled",
+    "Pasted image 20230523122754.png",
+    "warnings-in-git/LF-CRLF-warning-cmd-snippet.png",
+    "warnings-in-git/README-lf-crlf-warning.md"
+  ]
+}
